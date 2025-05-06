@@ -76,12 +76,3 @@ A simple web application to manage and display employee information. Users can v
 **License**
 
 Free to use and modify for personal or educational projects.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/63917045/c8414a63-8690-4c63-a702-763963258692/data.json
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/63917045/91b0b814-c819-4997-be46-16c79180bd8d/index.html
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/63917045/d8143b43-94f2-4019-af5a-45431c0faa2e/script.js
-[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/63917045/b4bc046f-0413-4612-89a2-3c1f9a626533/style.css
-
----
-Answer from Perplexity: pplx.ai/share
